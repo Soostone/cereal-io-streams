@@ -1,5 +1,5 @@
 name:                cereal-io-streams
-version:             0.0.0.0
+version:             0.0.1.0
 synopsis:            io-streams support for the cereal binary serialization library
 description:
     io-streams support for the cereal binary serialization library
